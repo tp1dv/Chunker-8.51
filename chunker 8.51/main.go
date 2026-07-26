@@ -18,11 +18,11 @@ func main() {
     }{
         {
             name: "README.txt",
-            content: "Fortnite Build Installer v14.30\nCreated by Go installer scaffold\nThis package is a placeholder demonstration only.\n",
+            content: "Fortnite Build Installer 8.51\nCreated by Go installer scaffold\nThis package is a placeholder demonstration only.\n",
         },
         {
             name: "install-info.json",
-            content: `{"name":"Fortnite Build 14.30","type":"placeholder-installer","createdBy":"Go"}`,
+            content: `{"name":"Fortnite Build 8.51","type":"placeholder-installer","createdBy":"Go"}`,
         },
     }
 
