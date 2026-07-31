@@ -59,6 +59,4 @@ This project is provided for learning and experimentation purposes.
 
 ## Made by Top1dv
 
-<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/1d2f879b-d178-42c7-9f9b-9930b28445ad" />
-
 
